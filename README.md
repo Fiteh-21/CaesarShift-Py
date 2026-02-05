@@ -4,17 +4,6 @@ A lightweight, interactive **command-line interface (CLI)** application that all
 
 ---
 
-## 📜 Table of Contents
-
-- [About the Project](#about-the-project)  
-- [How it Works](#how-it-works)  
-- [Features](#features)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-
-
----
-
 ## 🏛️ About the Project
 
 The **Caesar Cipher** is one of the earliest and simplest forms of encryption. It is a substitution cipher where each letter in the original message is replaced by a letter a fixed number of positions down the alphabet.
